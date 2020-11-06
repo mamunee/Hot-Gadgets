@@ -1,0 +1,22 @@
+.container{
+    margin-bottom: 100px;
+}
+.Buy-Now-Button{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 9px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.border-Categories{
+    border-bottom: 10px solid  #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
